@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @acioligeorge
 - 👀 I'm interested in improving my skills as a front-end developer
 - 🌱 I’m currently learning HTML, CSS and JavaScript
-- 💞️ I’m looking to collaborate on smal projects
+- 💞️ I’m looking to collaborate on small projects
 - 📫 How to reach me at [My LinkedIn Profile ](https://linkedin.com/in/acioligeorge)
 - ⚡ Fun fact: love music ♫
 <!---
