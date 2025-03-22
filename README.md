@@ -37,14 +37,14 @@ Sou apaixonado por tecnologia e busco aprimorar minhas skills, estudando constan
 🔹 **[FrontEnd Spotify - Alura](https://github.com/seu-usuario/FrontEnd_Spotify-alura)** – Projeto desenvolvido na Imersão FrontEnd da Alura.  
 🔹 **[Pseudocódigo Bardoze](https://github.com/seu-usuario/pseudocodigo-bardoze)** – Exercício em Portugol para prática de lógica de programação.  
 
-🔗 **Veja mais projetos no meu [GitHub](https://github.com/seu-usuario)**!
+🔗 **Veja mais projetos no meu [GitHub](https://github.com/acioligeorge)**!
 
 ---
 
 ### 📫 **Contato**
 💌 **Email:** acioligeorge@icloud.com  
-💼 **LinkedIn:** [linkedin.com/in/seu-usuario](https://linkedin.com/in/acioligeorge)  
-🌍 **Portfólio:** [seu-portfolio.com](nordestino-dev.github.io/nexus/) *(se houver)*  
+💼 **LinkedIn:** [linkedin.com/in/acioligeorge](https://linkedin.com/in/acioligeorge)  
+🌍 **Portfólio:** [meu-portfolio.io](nordestino-dev.github.io/nexus/)
 
 ---
 
