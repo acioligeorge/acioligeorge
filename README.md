@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o George Acioli! 👋</h1>
 
 <p align="center">
-  🚀 Desenvolvedor Frontend | 🎨 Criador de experiências digitais | 🔄 Em transição de carreira
+  🚀 Eng. de Software | 🎨 Criador de experiências digitais | 🔄 Em transição de carreira
 </p>
 
 ---
